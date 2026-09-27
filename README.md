@@ -2,6 +2,22 @@
 
 **An offline-first observing journal for curious skywatchers.** Pick a target, take it outside, and keep a record of what you saw.
 
+## Screenshots
+
+<table>
+  <tr>
+    <td align="center"><strong>Home</strong><br><img src="docs/screenshots/home.png" width="240" alt="Stellar Log home screen"></td>
+    <td align="center"><strong>Sky catalog</strong><br><img src="docs/screenshots/catalog.png" width="240" alt="Searchable celestial object catalog"></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Observation journal</strong><br><img src="docs/screenshots/journal.png" width="240" alt="Observation journal with saved notes"></td>
+    <td align="center"><strong>Insights</strong><br><img src="docs/screenshots/insights.png" width="240" alt="Observing statistics and insights"></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Settings</strong><br><img src="docs/screenshots/settings.png" width="240" alt="Theme and language settings"></td>
+    <td></td>
+  </tr>
+</table>
 ## Features
 
 - Curated starter catalog: galaxies, nebulae, clusters, stars, and planets.
